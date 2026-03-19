@@ -174,3 +174,5 @@ $$\text{FFN}(x) = \max(0,\; xW_1 + b_1)\,W_2 + b_2$$
 - Vaswani et al. (2017). *Attention Is All You Need*. NeurIPS.
 - Notas de aula — Prof. Dimmy Magalhães, iCEV 2026.1
 - Laboratórios 01, 02 e 03 — implementações base reutilizadas aqui
+
+- *IAs generativas (claude e GPT) foram consultadas para o desenvolvimento deste laboratório*
